@@ -428,7 +428,7 @@ header.sticky{
         --p-font: 15px;
     }
     .home{
-        height: 90vh;
+        height: 85vh;
     }
 }
 
@@ -484,6 +484,9 @@ header.sticky{
     .row-img{
         width: 100px;
         height: 100px;
+    }
+    .home{
+        height: 85vh;
     }
 }
 
